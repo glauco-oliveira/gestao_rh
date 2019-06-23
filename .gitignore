@@ -1,0 +1,6 @@
+.idea
+*.sqlite3
+venv
+__pycache__
+*.pyc
+gestao_rh/__pycache__/
