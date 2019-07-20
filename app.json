@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "gestao_rh",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
